@@ -6,4 +6,8 @@ hello git
 hello git
 hello git master add 
 hello git host-fixed add
+
 fork fork fork fork
+
+hello friend
+
